@@ -1,0 +1,64 @@
+{
+  "What is your age?": [
+    "Under 13",
+    "13–17",
+    "18–24",
+    "25–34",
+    "35–44",
+    "45+"
+  ],
+  "What is your gender?": [
+    "Male",
+    "Female",
+    "Non-binary / Third gender",
+    "Prefer not to say"
+  ],
+  "How would you describe your gaming skill level?": [
+    "Beginner – Just starting out",
+    "Intermediate – Comfortable, but improving",
+    "Pro – Highly skilled and experienced"
+  ],
+  "Which devices do you prefer to use for gaming?": [
+    "PC / Laptop",
+    "Console (PlayStation, Xbox, etc.)",
+    "Mobile phone",
+    "Handheld device (Switch, etc.)"
+  ],
+  "What are your favorite game genres?": [
+    "RPG (Role-playing games)",
+    "FPS (First-person shooter)",
+    "Puzzle",
+    "Casual / Idle",
+    "Sports",
+    "Adventure",
+    "Strategy",
+    "Simulation",
+    "Horror",
+    "Other"
+  ],
+  "How often do you play games?": [
+    "Less than 1 hour per week",
+    "1–3 hours per week",
+    "4–10 hours per week",
+    "11–20 hours per week",
+    "20+ hours per week"
+  ],
+  "What is your preferred session length?": [
+    "Short, casual bursts (15–30 minutes at a time)",
+    "Medium sessions (1–2 hours)",
+    "Long gaming marathons (3+ hours)"
+  ],
+  "Do you play more often:": [
+    "Alone",
+    "With friends / team",
+    "Both equally"
+  ],
+  "What gaming platforms or titles do you feel most proficient in?": [],
+  "How do you usually feel while gaming?": [
+    "Excited",
+    "Relaxed",
+    "Frustrated",
+    "Competitive",
+    "Focused"
+  ]
+}
